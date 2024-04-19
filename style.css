@@ -1,0 +1,126 @@
+p{
+    text-align: justify;
+}
+
+
+
+.perfil{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+.per-sub{
+    color: rgb(0, 153, 255);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+#fb{
+    font-size: 25px;
+}
+
+#twt{
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#insta{
+    font-size: 25px;
+}
+
+.per-text{
+    font-size: 16px;
+}
+
+#star{
+    font-size: 25px;
+    color: rgb(255, 208, 0);
+}
+
+#pessoa{
+    font-size: 25px;
+    color: rgb(0, 102, 255);
+}
+
+#person-icon{
+    font-size: 25px;
+    color: rgb(0, 102, 255);
+}
+
+.person-text{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+
+.status{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.c-link{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+#carouselExampleIndicators{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+
+
+.rodape{
+    height: 30px;
+    background-color: #F8F9FA;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+
+
+.des-title{
+    color: rgb(0, 153, 255);
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.des-text{
+    font-size: 16px;
+}
+
+.top{
+    outline: none;
+    background-color: rgb(0, 153, 255);
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    width: 100px;
+    margin-right: 10px;
+    color: black;
+}
+
+.icones{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 80%;
+    bottom: 51%;
+}
+
+.icones-s{
+    flex-direction: row;
+}
+
+.icones-p{
+    flex-direction: row;
+}
